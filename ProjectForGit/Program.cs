@@ -6,6 +6,7 @@ namespace ProjectForGit
     {
         static void Main(string[] args)
         {
+            // Solve task 1
             Console.WriteLine("Hello World!");
         }
     }
