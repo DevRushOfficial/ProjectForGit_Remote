@@ -9,6 +9,7 @@ namespace ProjectForGit
             // Solve task 1
             Console.WriteLine("Hello World!");
             // Solve task 2
+            // Solve task 3
         }
     }
 }
