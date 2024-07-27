@@ -10,6 +10,7 @@ namespace ProjectForGit
             Console.WriteLine("Hello World!");
             // Solve task 2
             // Solve task 3
+            // Solve task 4
         }
     }
 }
