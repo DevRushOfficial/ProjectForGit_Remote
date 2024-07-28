@@ -9,5 +9,6 @@ namespace ProjectForGit
     internal class Book
     {
         // subtask1
+        // subtask2
     }
 }
