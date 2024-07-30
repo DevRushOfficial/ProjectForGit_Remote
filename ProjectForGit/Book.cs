@@ -13,5 +13,6 @@ namespace ProjectForGit
 
 
         // Implemented movement
+        // Implemented another way of movement
     }
 }
