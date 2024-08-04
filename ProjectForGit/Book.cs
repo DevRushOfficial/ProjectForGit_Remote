@@ -8,7 +8,6 @@ namespace ProjectForGit
 {
     internal class Book
     {
-        // subtask1
-        // subtask2
+        // Solve subtask for task 12
     }
 }
